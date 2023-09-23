@@ -1,0 +1,14 @@
+* {
+	font-family: var(--font-family);
+}
+
+body {
+	background-color: lightblue;
+	color: #222;
+	transition: 0.5s;
+}
+
+.nightmode {
+	background-color: #222;
+	color: lightblue;
+}
